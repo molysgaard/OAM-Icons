@@ -1,7 +1,0 @@
-#!/bin/bash
-
-#This script renders the icons in different sizes
-for f in *.svg
-do
-    convert $f -resize 32x32 renders/32/${f%.*}.png
-done
