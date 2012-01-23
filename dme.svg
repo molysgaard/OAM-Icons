@@ -60,20 +60,14 @@
        x="8.8633471"
        y="9.1160431" />
     <path
-       sodipodi:type="star"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.19271361;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3018"
-       sodipodi:sides="6"
-       sodipodi:cx="15.672719"
-       sodipodi:cy="14.675171"
-       sodipodi:r1="1.1162905"
-       sodipodi:r2="0.96673596"
-       sodipodi:arg1="0"
-       sodipodi:arg2="0.52359878"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 16.789009,14.675171 -0.558145,0.966736 -1.11629,0 -0.558145,-0.966736 0.558145,-0.966736 1.11629,0 z"
-       transform="matrix(3.72,0,0,4.0715036,-42.272585,-44.628324)" />
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3048"
+       sodipodi:cx="16.655054"
+       sodipodi:cy="15.612856"
+       sodipodi:rx="0.937684"
+       sodipodi:ry="0.75907755"
+       d="m 17.592738,15.612856 a 0.937684,0.75907755 0 1 1 -1.875368,0 0.937684,0.75907755 0 1 1 1.875368,0 z"
+       transform="matrix(1.4761905,0,0,1.4117647,-8.3774946,-6.2948681)" />
   </g>
 </svg>
